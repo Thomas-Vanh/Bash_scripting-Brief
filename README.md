@@ -6,9 +6,9 @@ As you might be aware by now, when you type instructions (_commands_) at your pr
 
 In other words, so far you have used the **shell** directly from the command line, but after this challenge you will be able to use it by scripting as well! Go through each one of the exercises below to learn more about **Bash scripting**:
 
-* [Syntax](./assets/exercises/syntax.md)
-* [Are you my friend?](./assets/exercises/friend.md)
-* [Web Scraping](./assets/exercises/scrap.md)
+* [Syntax](./exercises/syntax.md)
+* [Are you my friend?](./exercises/friend.md)
+* [Web Scraping](./exercises/scrap.md)
 
 Each exercise will ask you to write a different script, store them in a folder called `script`, and push it to your fork of the repository, so that they can be reviewed later.
 
