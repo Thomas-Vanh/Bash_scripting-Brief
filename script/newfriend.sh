@@ -4,7 +4,7 @@
 arg=$@
 
 if [[ -n $arg && $arg == *joke* ]];then #check if arg is not empty and if it match with joke
-	shuf -n 1 /home/thomas/devops/Bash_Scripting/BRIEFING-Bash_Scripting/script/joke.txt #shuffle the content of joke.txt 
+	shuf -n 1 ~/BRIEFING-Bash_Scripting/script/joke.txt #shuffle the content of joke.txt 
 	exit 
 elif [[ -n $arg && $arg == *date* ]];then #same as above but with date 
 	date #print the date and time 
